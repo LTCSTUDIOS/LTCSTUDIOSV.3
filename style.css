@@ -1,1 +1,15 @@
-body { background: black url('stars.gif') repeat; color: #FFD700; font-family: sans-serif; text-align: center; padding: 20px; } nav a { color: #FFD700; margin: 0 10px; }
+
+body {
+  margin: 0;
+  background: black url('stars.gif') repeat;
+  font-family: sans-serif;
+  color: #FFD700;
+  text-align: center;
+  padding: 2rem;
+}
+nav a {
+  color: #FFD700;
+  text-decoration: none;
+  margin: 0 1rem;
+  font-weight: bold;
+}
