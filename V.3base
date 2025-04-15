@@ -1,0 +1,84 @@
+<!-- index.html --><!DOCTYPE html><html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LTC Studio</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Accueil LTC Studio</h1>
+    <nav>
+      <a href="artistes.html">Artistes</a> |
+      <a href="merch.html">Merch</a> |
+      <a href="services.html">Services</a> |
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+</body>
+</html><!-- artistes.html --><!DOCTYPE html><html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Nos Artistes</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Nos Artistes</h1>
+  </header>
+  <main>
+    <p>À venir...</p>
+  </main>
+</body>
+</html><!-- merch.html --><!DOCTYPE html><html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Merch</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Merch</h1>
+  </header>
+  <main>
+    <p>La boutique arrive bientôt...</p>
+  </main>
+</body>
+</html><!-- services.html --><!DOCTYPE html><html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Services</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Nos Services</h1>
+  </header>
+  <main>
+    <p>Enregistrement, mix, mastering, etc.</p>
+  </main>
+</body>
+</html><!-- contact.html --><!DOCTYPE html><html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Contact</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Contact</h1>
+  </header>
+  <main>
+    <p>Email : contact@ltcstudio.fr</p>
+  </main>
+</body>
+</html><!-- styles.css -->body { margin: 0; font-family: Arial, sans-serif; background-color: black; color: white; }
+
+header { background-color: black; padding: 20px; text-align: center; }
+
+h1 { color: yellow; }
+
+nav a { color: yellow; text-decoration: none; margin: 0 10px; }
+
+main { padding: 20px; background-color: white; color: black; min-height: 60vh; }
+
